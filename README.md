@@ -1,19 +1,16 @@
-# loopstudios-landing-page
+<h1 align="center">Loopstudios landing page</h1>
+<p align="center">This challenge is perfect if you're looking to test your CSS Grid chops. Even without Grid, this project will be a fun one to help you practice your layout skills!</p>
 
-## Project setup
-```
-npm install
-```
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JAVA SCRIPT</li>
+  <li>VUE.JS</li>
+  <li>VUE CLI</li>
+</ul>
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+<h2>Demo Screeshots</h2>
+<img src="./design/desktop-preview.jpg">
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<!-- npm run build -->
